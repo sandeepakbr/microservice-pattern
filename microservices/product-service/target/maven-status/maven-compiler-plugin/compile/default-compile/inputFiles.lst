@@ -1,0 +1,12 @@
+/Users/sandeep/Documents/ms/microservices/product-service/src/main/java/com/sandeep/productservice/ProductserviceApplication.java
+/Users/sandeep/Documents/ms/microservices/product-service/src/main/java/com/sandeep/productservice/common/ErrorMessageResponse.java
+/Users/sandeep/Documents/ms/microservices/product-service/src/main/java/com/sandeep/productservice/controller/ProductController.java
+/Users/sandeep/Documents/ms/microservices/product-service/src/main/java/com/sandeep/productservice/dto/requestDto/ProductReqsDto.java
+/Users/sandeep/Documents/ms/microservices/product-service/src/main/java/com/sandeep/productservice/dto/responseDto/ProductRespDto.java
+/Users/sandeep/Documents/ms/microservices/product-service/src/main/java/com/sandeep/productservice/entity/Product.java
+/Users/sandeep/Documents/ms/microservices/product-service/src/main/java/com/sandeep/productservice/exception/ProductGlobalExceptionHandler.java
+/Users/sandeep/Documents/ms/microservices/product-service/src/main/java/com/sandeep/productservice/mapper/requestMapper/ProductRequestMapper.java
+/Users/sandeep/Documents/ms/microservices/product-service/src/main/java/com/sandeep/productservice/mapper/responseMapper/ProductResponseMapper.java
+/Users/sandeep/Documents/ms/microservices/product-service/src/main/java/com/sandeep/productservice/repository/ProductRepository.java
+/Users/sandeep/Documents/ms/microservices/product-service/src/main/java/com/sandeep/productservice/service/ProductService.java
+/Users/sandeep/Documents/ms/microservices/product-service/src/main/java/com/sandeep/productservice/serviceImpl/ProductServiceImpl.java
